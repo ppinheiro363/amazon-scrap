@@ -1,0 +1,59 @@
+# Arquivos Python
+*.pyc
+*.pyo
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+env.bak/
+env1/
+env2/
+
+# Logs e arquivos de saída
+*.log
+*.pot
+*.pyc
+*.swp
+*.bak
+*.csv
+*.xlsx
+
+# Arquivos de configuração do IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Dependências e pacotes instalados
+lib/
+libs/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Arquivos gerados durante o desenvolvimento
+*.pyc
+*.swo
+*.swp
+*.swm
+*.swn
+*.swt
+*.bak
+*.bak.*
+*.~*
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*.bak
+*~
+
+# Outros
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
